@@ -4,5 +4,5 @@ A wheel which users spin to make decisions!
 
 # Details
 Languages: HTML, JS, CSS
-Time:
+Time: 4 hours
 - Made with Replit
